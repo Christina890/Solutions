@@ -1,2 +1,2 @@
 # Solutions
-Solutions for Data Structures and algorithm problems
+Solutions to Data Structures and algorithm problems
